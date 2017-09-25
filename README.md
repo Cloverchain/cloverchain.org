@@ -1,0 +1,2 @@
+# cloverchain.org
+A blockchain platform that gives an opportunity to make joint purchases, for obtaining the greatest benefit. Блокчеин платформа, дающая возможность совершать совместные покупки, для обретения наибольшей выгоды. Is ardán é an blocáil a thugann deis do cheannaithe comhpháirteacha a dhéanamh, chun an leas is fearr a fháil.  封鎖は、最大の利益を得るために、共同購入を行う機会を与えるプラットフォームです。 封鎖是一個平台，提供聯合採購的機會，以獲得最大的利益。
